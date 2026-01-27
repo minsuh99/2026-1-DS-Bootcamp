@@ -12,3 +12,4 @@
 
 ---
 # Syllabus
+📄 [강의계획서 PDF 보기](./2026_DS_BootCamp_Syllabus.pdf)
